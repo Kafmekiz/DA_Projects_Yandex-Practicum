@@ -20,4 +20,4 @@
 - seaborn
 - plotly
 
-### Статус проекта: завершен
+Python, Pandas, Math, Numpy, Stats, Matplotlib, Seaborn, Plotly, A/B-тестирование
